@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="12.16sp输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12.16max，min，average.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输出1000以内完数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针做函数形参.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针理解.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指向数组的指针变量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="通过地址做参数计算周长面积.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组max,min的值以及下标.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算圆的周长和面积.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输入n个整数，利用数组最大值最小值平均值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="正整数所有因子的个数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="未完成从键盘输入十进制x，转换成二进制数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输出斐波那契数列前二十四项值每行输出六个，每个数据占一个制表位.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组输出郑州工商学院.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="利用指针访问数组并输出数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="利用辗转相除法求两个正整数的最大公约数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="关于结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构先行.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
